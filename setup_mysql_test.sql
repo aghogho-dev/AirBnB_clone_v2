@@ -17,3 +17,4 @@ GRANT SELECT
    TO 'hbnb_test'@'localhost'
    IDENTIFIED BY 'hbnb_test_pwd';
 FLUSH PRIVILEGES;
+#changes made by me 

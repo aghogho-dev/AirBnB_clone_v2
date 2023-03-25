@@ -17,3 +17,4 @@ GRANT SELECT
    TO 'hbnb_dev'@'localhost'
    IDENTIFIED BY 'hbnb_dev_pwd';
 FLUSH PRIVILEGES;
+#changes by chidinma001
